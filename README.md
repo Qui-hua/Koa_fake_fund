@@ -51,10 +51,10 @@
     }
     
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/orderdata.png)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/orderdata.png)
 上圖透過postman下單
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/fundOrder.jpg)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/fundOrder.jpg)
 上圖為此下單流程的sequence diagram
 
 
@@ -100,10 +100,10 @@
         }
     }
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/dealdata.png)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/dealdata.png)
 上圖透過postman操作
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/funddeal.jpg)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/funddeal.jpg)
 上圖為此交易所回傳成交訊息的sequence diagram
 
 
@@ -149,7 +149,7 @@
     "total": 11
     }
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/account_list_get.png)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/account_list_get.png)
 上圖透過postman操作
 
 
@@ -177,7 +177,7 @@
         "updateTime": "2022-04-25T17:58:12.000Z"
     }
     
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/account_get.png)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/account_get.png)
 上圖透過postman操作
 
 
@@ -223,7 +223,7 @@
     }
     
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/orderdata.png)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/orderdata.png)
 上圖透過postman操作
 
 
@@ -270,7 +270,7 @@
     }
     
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/order_put.png)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/order_put.png)
 上圖透過postman操作
 
 
@@ -302,7 +302,7 @@
     }
     
 
-![image](https://github.com/Qui-hua/koa/blob/master/koa_test/img/order_delete.png)
+![image](https://github.com/Qui-hua/Koa_fake_fund/blob/main/img/order_delete.png)
 上圖透過postman操作
 
     
